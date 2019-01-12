@@ -1,0 +1,22 @@
+[
+    {
+        "home":[
+            {
+                "catagory" : "MostFav",
+                "list" : [0]
+            }
+        ]
+        
+    },
+    {
+        "artists":[
+            {
+                "name":"Ozodbek Nazarbekov",
+                "url" : "/OzodbekNazarbekov.json",
+                "image":"/images/OzodbekNazarbekov.json",
+                "id": 0,
+                "songs": 942
+            }
+        ]
+    }
+]
