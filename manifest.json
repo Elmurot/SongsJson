@@ -1,22 +1,42 @@
 [
     {
-        "home":[
+        "home": [
             {
-                "catagory" : "MostFav",
-                "list" : [0]
+                "catagory": "MostFav",
+                "list": [
+                    0
+                ]
             }
         ]
-        
     },
-    {
-        "artists":[
-            {
-                "name":"Ozodbek Nazarbekov",
-                "url" : "/OzodbekNazarbekov.json",
-                "image":"/images/OzodbekNazarbekov.json",
-                "id": 0,
-                "songs": 942
-            }
-        ]
-    }
+    [
+        {
+            "title": "Artists",
+            "array": [
+                {
+                    "name": "Ozodbek Nazarbekov",
+                    "url": "/OzodbekNazarbekov.json",
+                    "image": "/images/OzodbekNazarbekov.json",
+                    "songs": 942
+                },
+                {
+                    "name": "LALA",
+                    "url": "/OzodbekNazarbekov.json",
+                    "image": "/images/OzodbekNazarbekov.json",
+                    "songs": 942
+                }
+            ]
+        },
+        {
+            "title": "Recent",
+            "array": [
+                {
+                    "name": "Ozodbek Nazarbekov",
+                    "url": "/OzodbekNazarbekov.json",
+                    "image": "/images/OzodbekNazarbekov.json",
+                    "songs": 942
+                }
+            ]
+        }
+    ]
 ]
