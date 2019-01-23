@@ -16,14 +16,12 @@
                 {
                     "name": "Ozodbek Nazarbekov",
                     "url": "/OzodbekNazarbekov.json",
-                    "image": "/images/OzodbekNazarbekov.json",
-                    "songs": 942
+                    "image": "/images/OzodbekNazarbekov.jpg"
                 },
                 {
-                    "name": "LALA",
-                    "url": "/OzodbekNazarbekov.json",
-                    "image": "/images/OzodbekNazarbekov.json",
-                    "songs": 942
+                    "name": "Yulduz Usmoniva",
+                    "url": "/YulduzUsmoniva.json",
+                    "image": "/images/YulduzUsmoniva.jpeg"
                 }
             ]
         },
@@ -33,7 +31,7 @@
                 {
                     "name": "Ozodbek Nazarbekov",
                     "url": "/OzodbekNazarbekov.json",
-                    "image": "/images/OzodbekNazarbekov.json",
+                    "image": "/images/OzodbekNazarbekov.jpg",
                     "songs": 942
                 }
             ]

@@ -1,0 +1,15 @@
+{
+    "title": "Artists",
+    "array": [
+        {
+            "name": "Ozodbek Nazarbekov",
+            "url": "/OzodbekNazarbekov.json",
+            "image": "/images/OzodbekNazarbekov.json",
+        },
+        {
+            "name": "LALA",
+            "url": "/OzodbekNazarbekov.json",
+            "image": "/images/OzodbekNazarbekov.json",
+        }
+    ]
+}
